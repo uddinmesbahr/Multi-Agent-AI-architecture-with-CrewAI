@@ -8,7 +8,7 @@ This is an project using LangChain and LangGraph to automate the process of auto
 
 
 
-- [CrewAI Framework](#crewai-framework)
+
 - [Running the code](#running-the-code)
 - [Details & Explanation](#details--explanation)
 - [Using Local Models with Ollama](#using-local-models-with-ollama)
