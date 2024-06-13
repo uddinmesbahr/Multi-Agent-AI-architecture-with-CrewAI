@@ -1,12 +1,12 @@
 # CrewAI + LangGraph
 
 ## Introduction
-This is an example of how to use the [CrewAI](https://github.com/joaomdmoura/crewai) with LangChain and LangGraph to automate the process of automatically checking emails and creating drafts. CrewAI orchestrates autonomous AI agents, enabling them to collaborate and execute complex tasks efficiently.
-
-![High level image](./CrewAI-LangGraph.png)
+This is an project using LangChain and LangGraph to automate the process of automatically checking emails and creating drafts. CrewAI orchestrates autonomous AI agents, enabling them to collaborate and execute complex tasks efficiently.
 
 
-By [@joaomdmoura](https://x.com/joaomdmoura)
+
+
+
 
 - [CrewAI Framework](#crewai-framework)
 - [Running the code](#running-the-code)
@@ -14,8 +14,7 @@ By [@joaomdmoura](https://x.com/joaomdmoura)
 - [Using Local Models with Ollama](#using-local-models-with-ollama)
 - [License](#license)
 
-## CrewAI Framework
-CrewAI is designed to facilitate the collaboration of role-playing AI agents. In this example, these agents work together to give a complete stock analysis and investment recommendation
+
 
 ## Running the Code
 This example uses GPT-4.
