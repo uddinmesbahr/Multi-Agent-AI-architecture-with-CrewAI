@@ -35,5 +35,5 @@ This example uses GPT-4.
 	- `./src/crew/crew.py`: Class defining the CrewAI Crew.
 	- `./src/crew/tools.py`: Class implementing the GmailDraft Tool.
 
-## License
-This project is released under the MIT License.
+## Referece Source:
+ https://github.com/joaomdmoura/crewAI-examples/tree/main/CrewAI-LangGraph
